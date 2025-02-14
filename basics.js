@@ -7,4 +7,4 @@ fullName = "Bunny";
 age = 20;
 weight = 67.2;
 
-console.log(age);
+console.log(weight);

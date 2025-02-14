@@ -25,3 +25,36 @@
 
 // var is global scoped
 // let and const are block scoped
+
+//primitive data types are fixed
+// non primitive data types are objects
+
+// let price = 100.5;
+// It is a number data type
+
+// let pName = "JCB";
+// It is a string data type
+
+// let isStudent = true;
+// It is a boolean data type
+
+// let x;
+// It gives undefined
+
+// let x = null;
+// type of gives object but it is counted as primitive data type.
+// It is also defined as absence of an object
+
+// BigInt 
+// let x = BigInt("123");  // o/p is 123n
+// typeof is 'bigint'
+
+// Symbol
+// let y = Symbol("Hello!");  // o/p Symbol(Hello!)
+// typeof is 'symbol'
+
+// Both are rarely encountered
+
+// Completed primitive data types
+
+

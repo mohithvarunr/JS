@@ -19,3 +19,9 @@
 // var can be re-declared and updated
 // let can not be re-declared but can be updated
 // const can not be re-declared and can't be updated
+
+// let variable wihtout initializing give you undefined value
+// but const will throw you an error
+
+// var is global scoped
+// let and const are block scoped

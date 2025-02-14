@@ -7,4 +7,4 @@ fullName = "Bunny";
 age = 20;
 weight = 67.2;
 
-console.log(weight);
+console.log("My weight is " + weight);

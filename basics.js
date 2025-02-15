@@ -87,12 +87,13 @@
 
 // Practice question 2
 
-const profile = {
-    id : "shardhakhapra",
-    posts : 195,
-    followers : "569k",
-    following : 4,
-    name : "Shradha Khapra",
-};
+// const profile = {
+//     id : "shardhakhapra",
+//     posts : 195,
+//     followers : "569k",
+//     following : 4,
+//     name : "Shradha Khapra",
+// };
 
-console.log(profile);
+// console.log(profile);
+

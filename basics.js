@@ -57,4 +57,19 @@
 
 // Completed primitive data types
 
+// Non - Primitive data types
 
+// Objects is collection of values
+
+const student = {
+    fullName : "Bunny",
+    age : 20,
+    cgpa : 8.0,
+    isPass : true,
+};
+
+// accesing a value in a Object
+
+// student.fullName or student["age"] 
+
+// const object key can be updated

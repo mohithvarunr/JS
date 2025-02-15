@@ -61,15 +61,26 @@
 
 // Objects is collection of values
 
-const student = {
-    fullName : "Bunny",
-    age : 20,
-    cgpa : 8.0,
-    isPass : true,
-};
+// const student = {
+//     fullName : "Bunny",
+//     age : 20,
+//     cgpa : 8.0,
+//     isPass : true,
+// };
 
 // accesing a value in a Object
 
 // student.fullName or student["age"] 
 
 // const object key can be updated
+
+// Practice question 1
+
+// const product = {
+//     name : "Parker Jotter",
+//     price : 270,
+//     ratings : 7002,
+//     discount : 5,
+// }
+
+// console.log(product.name);

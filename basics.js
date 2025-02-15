@@ -83,4 +83,16 @@
 //     discount : 5,
 // }
 
-// console.log(product.name);
+// console.log(product);
+
+// Practice question 2
+
+const profile = {
+    id : "shardhakhapra",
+    posts : 195,
+    followers : "569k",
+    following : 4,
+    name : "Shradha Khapra",
+};
+
+console.log(profile);

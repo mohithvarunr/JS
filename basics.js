@@ -98,3 +98,5 @@
 // console.log(profile);
 
 // Arithmetic operators
+
+// Completed Operators 
